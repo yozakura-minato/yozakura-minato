@@ -25,9 +25,11 @@
 
 ## 2. Naming rules
 
-- Contain Unicode letters and digits
+- Case-sensitive, for example: `javaVariable` and `javavariable` are not the same
+- Contain Unicode letters and digits (no whitespace)
 - Start with letter
 . Starting with `$` or `_` is possible but not recommended
+- Keywords and reserved words are restricted
 - Use full words for readability
 - Use lower pascal style, for example: `javaVariable;`
 . For constants, use upper snakecase style, for example: `JAVA_CONSTANT`
