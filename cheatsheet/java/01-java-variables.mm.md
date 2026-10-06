@@ -7,12 +7,12 @@
 #### Static fields
 
 - Belong to classes 
-- Use `final` to make them immutable
+- Use `final` to create constants
 
 #### Non-static fields
 
 - Belong to objects
-- Use `final` to make them immutable
+- Use `final` to create constants
 
 ### Local variables
 
