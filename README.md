@@ -1,31 +1,29 @@
-> # Huỳnh Hữu Lộc | Barry Holt | 夜桜水音
+> # `Huỳnh Hữu Lộc` | `Barry Holt` | `夜桜水音`
 >
-> Java Backend Engineer
+> _Java Backend Engineer_
 
-## Tech Stack
-
-### Backend
+## Backend
 
 ![](https://skillicons.dev/icons?i=spring,java)
 
 * Spring/Spring Boot
 * Java SE (Java Core)
 
-### Database & Caching
+## Database & Caching
 
 ![](https://skillicons.dev/icons?i=postgres,mysql,redis)
 
 * PostgreSQL, Oracle, MySQL
 * Redis
 
-### Dev tools
+## Dev tools
 
 ![](https://skillicons.dev/icons?i=git,github,gitlab,docker)
 
 * Git, GitHub, GitLab
 * Docker
 
-### Frontend
+## Frontend
 
 ![](https://skillicons.dev/icons?i=svelte,react,next,html,css,js,ts)
 
