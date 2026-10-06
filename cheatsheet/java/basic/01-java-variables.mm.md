@@ -1,6 +1,6 @@
-# Variables
+# JAVA VARIABLES
 
-## Categories
+## 1. Categories
 
 ### Fields
 
@@ -23,10 +23,11 @@
 - Belong to methods
 - Can be passed from outside
 
-## Naming rules
+## 2. Naming rules
 
 - Contain Unicode letters and digits
-- Start with letter (`$` or `_` is possible but not recommended)
+- Start with letter
+. Starting with `$` or `_` is possible but not recommended
 - Use full words for readability
 - Use lower pascal style, for example: `javaVariable;`
-For constants, use upper snakecase style, for example: `JAVA_CONSTANT`
+. For constants, use upper snakecase style, for example: `JAVA_CONSTANT`
